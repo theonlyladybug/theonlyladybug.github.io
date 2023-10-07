@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qi Wu (吴奇) / Homepage"
+title                    : "Yiran Li / Homepage"
 title_separator          : "-"
-name                     : &name "Qi Wu"
+name                     : &name "Yiran Li (栗一冉)"
 description              : &description "personal description"
-url                      : https://wilsonCernWq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://theonlyladybug.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wilsonCernWq/wilsonCernWq.github.io"
+repository               : "theonlyladybug/theonlyladybug.github.io"
 teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter wilson_over
+  username               : # &twitter wilson_over
 facebook:
   username               :
   app_id                 :
@@ -79,14 +79,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qi Wu"
+  name             : "Yiran Li (栗一冉)"
   avatar           : "profile.png"
-  bio              : "PhD candidate doing rendering and visualization research"
-  location         : "UC - Davis"
+  bio              : "PhD candidate in Computer Science at UC Davis"
+  location         : "UC Davis"
   employer         : # "https://vidi.cs.ucdavis.edu" 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=I2hvxPUAAAAJ&hl=en"
-  email            : "qadwu@ucdavis.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=T9QjVSEAAAAJ&hl=en"
+  email            : "ranli@ucdavis.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,14 +95,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wilsonCernWq"
+  # github           : "theonlyladybug"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0342-9366"
+  orcid            : "https://orcid.org/0000-0001-5204-4935"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
