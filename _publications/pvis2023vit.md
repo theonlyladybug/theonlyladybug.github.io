@@ -7,7 +7,7 @@ Third, using an autoencoder-based learning solution, we summarize all possible a
 preprint_url: "https://drive.google.com/file/d/1EF4qeumN8kczKvdJ2CtFV5dYIATYbifN/view?usp=share_link"
 arxiv_url: "https://arxiv.org/abs/2303.13731"
 preview: "pubs/pvis23_vit_preview.png"
-# teaser: "pubs/pvis23_vit_teaser.png"
+teaser: "pubs/pvis23_vit_teaser.png"
 # teaser_caption: "Figure 1: Our system contains four components. The imageoverview{} (A) lays out all images for selection. The headimportance{} (B) shows all heads in different importance metrics (B1) and dissects a head's importance through partial pruning (B2, B3). The attention strengths between patches in a head are shown in the attnstrength{} (C), where users first obtain an overview of all heads (C1), and then focus on one head (C2, C3). 
 #  The attnpattern{} (D) clusters all heads by their attention pattern (D1), and presents the pattern details in one head (D2${\sim}$D5)."
 bibtex: "@article{li2023does,\n    title={How Does Attention Work in Vision Transformers? A Visual Analytics Attempt},\n    author={Li, Yiran and Wang, Junpeng and Dai, Xin and Wang, Liang and Yeh, Chin-Chia Michael and Zheng, Yan and Zhang, Wei and Ma, Kwan-Liu},\n    journal={IEEE Transactions on Visualization and Computer Graphics},\n    year={2023},\n   publisher={IEEE}\n}"
