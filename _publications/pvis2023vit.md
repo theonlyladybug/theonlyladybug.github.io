@@ -1,9 +1,10 @@
 ---
 title: "How Does Attention Work in Vision Transformers? A Visual Analytics Attempt"
-venue: "PacificVis 2023"
+venue: "IEEE PacificVis 2023"
 authors: "Yiran Li, Junpeng Wang, Xin Dai, Liang Wang, Chin-Chia Michael Yeh, Yan Zheng, Liang Wang, Kwan-Liu Ma"
 abstract: "Vision transformer (ViT) expands the success of transformer models from sequential data to images. The model decomposes an image into many smaller patches and arranges them into a sequence. Multi-head self-attentions are then applied to the sequence to learn the attention between patches. Despite many successful interpretations of transformers on sequential data, little effort has been devoted to the interpretation of ViTs, and many questions remain unanswered. For example, among the numerous attention heads, which one is more important? How strong are individual patches attending to their spatial neighbors in different heads? What attention patterns have individual heads learned? In this work, we answer these questions through a visual analytics approach. Specifically, we first identify ___what___ heads are more important in ViTs by introducing multiple pruning-based metrics. Then, we profile the spatial distribution of attention strengths between patches inside individual heads, as well as the trend of attention strengths across attention layers.
 Third, using an autoencoder-based learning solution, we summarize all possible attention patterns that individual heads could learn. Examining the attention strengths and patterns of the important heads, we answer ___why___ they are important. Through concrete case studies with experienced deep learning experts on multiple ViTs, we validate the effectiveness of our solution that deepens the understanding of ViTs from *head importance*, *head attention strength*, and *head attention pattern*."
+official_url: "https://ieeexplore.ieee.org/abstract/document/10081322"
 preprint_url: "https://drive.google.com/file/d/1EF4qeumN8kczKvdJ2CtFV5dYIATYbifN/view?usp=share_link"
 arxiv_url: "https://arxiv.org/abs/2303.13731"
 preview: "pubs/pvis23_vit_preview.png"
