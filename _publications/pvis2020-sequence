@@ -1,0 +1,18 @@
+---
+title: "Comparative Visual Analytics for Assessing Medical Records with Sequence Embedding"
+venue: "IEEE PacificVis 2020 Workshop on Visualization Meets AI"
+authors: "Rongchen Guo, Takanori Fujiwara, Yiran Li, Kelly M. Lima, Soman Sen, Nam K. Tran, Kwan-Liu Ma"
+abstract: "Machine learning for data-driven diagnosis has been actively studied in medicine to provide better healthcare. Supporting analysis of a patient cohort similar to a patient under treatment is a key task for clinicians to make decisions with high confidence. However, such analysis is not straightforward due to the characteristics of medical records: high dimensionality, irregularity in time, and sparsity. To address this challenge, we introduce a method for similarity calculation of medical records. Our method employs event and sequence embeddings. While we use an autoencoder for the event embedding, we apply its variant with the self-attention mechanism for the sequence embedding. Moreover, in order to better handle the irregularity of data, we enhance the self-attention mechanism with consideration of different time intervals. We have developed a visual analytics system to support comparative studies of patient records. To make a comparison of sequences with different lengths easier, our system incorporates a sequence alignment method. Through its interactive interface, the user can quickly identify patients of interest and conveniently review both the temporal and multivariate aspects of the patient records. We demonstrate the effectiveness of our design and system with case studies using a real-world dataset from the neonatal intensive care unit of UC Davis."
+official_url: "https://www.sciencedirect.com/science/article/pii/S2468502X20300139"
+arxiv_url: https://arxiv.org/abs/2002.08356
+preview: "pubs/pvis2020-sequence-preview.png"
+teaser: "pubs/pvis2020-sequence-teaser.png"
+teaser_caption: "The user interface of our visual analytics system. The system consists of multiple views. (a) and (b) show each neonate’s similarities of medical tests taken
+and the records of test values, respectively. (c) depicts changes of test records dissimilarities over time between the neonate selected from (a) or (b) and top-3
+similar neonates. (d) visualizes a statistical overview of the selected and top-3-similar neonates. (e) provides all the medical test results at the selected time in (c)
+or (f). (f) shows the temporal changes of values of the selected test in (d) or (e). Finally, (g) lists all medical test names."
+bibtex: "@article{guo2020comparative,\n    title={Comparative visual analytics for assessing medical records with sequence embedding},\n    author={Guo, Rongchen and Fujiwara, Takanori and Li, Yiran and Lima, Kelly M and Sen, Soman and Tran, Nam K and Ma, Kwan-Liu},\n    journal={Visual Informatics},\n    volume={4},\n    number={2},\n    pages={72--85},\n    year={2020},\n    publisher={Elsevier}\n}"
+permalink: "/publication/pvis2020-sequence"
+date: 2020-03-23
+collection: "publications"
+---
