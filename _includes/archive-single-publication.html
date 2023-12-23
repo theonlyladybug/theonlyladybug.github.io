@@ -42,6 +42,9 @@
           {% if post.award %}
             <b style="color:coral">{{ post.award }}</b>,
           {% endif %}
+          {% if post.achieve_hl %}
+            <b style="color:coral">{{ post.achieve_hl }}</b>,
+          {% endif %}
           {{ post.date | default: "1900-01-01" | date: "%Y" }} 
         </p>
 

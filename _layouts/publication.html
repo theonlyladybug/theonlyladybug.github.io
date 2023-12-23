@@ -38,6 +38,20 @@ layout: default
             {{ page.date | default: "1900-01-01" | date: "%Y" }}
           </h5>
 
+          {% if page.achieve_hl %}
+            <h5 class="text-center" style="color:#ff5252">
+              <!-- <i class="fa-solid fa-medal" style="color: #ff5252;"></i> -->
+              {{ page.achieve_hl }}
+            </h5>
+          {% endif %}
+
+          {% if page.achieve_or %}
+            <h5 class="text-center" style="color:#ff5252">
+              <!-- <i class="fa-solid fa-medal" style="color: #ff5252;"></i> -->
+              {{ page.achieve_or }}
+            </h5>
+          {% endif %}
+
           {% if page.award %}
             <h5 class="text-center" style="color:#ff5252">
               <i class="fa-solid fa-medal" style="color: #ff5252;"></i>
