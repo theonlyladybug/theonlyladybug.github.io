@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the [Visualization & Interface Design Innovation (VIDI) Lab](https://vidi.cs.ucdavis.edu/) at the the University of California - Davis, where I am advised by Prof. [Kwan-Liu Ma](https://www.cs.ucdavis.edu/~ma/). Prior to my PhD study, I obtained a bachelor degree in Mathematics from [Zhejiang University](https://www.zju.edu.cn/english/).
+I am a Staff Machine Learning Scientist at Visa, working on transformer-based and foundation-model systems for high-throughput production decisioning. I received my PhD in Computer Science from the University of California, Davis, advised by Prof. Kwan-Liu Ma.
 
-My research is centered on the intersection of Explainable AI (XAI) and Visual Analytics (VA). I specialize in devising advanced interpretation methodologies to enhance the understanding, evaluation, and diagnosis of AI systems. Additionally, I engineer sophisticated visualization systems to further augment and streamline the interpretation and analytical processes.
+My work focuses on model evaluation, AI reliability, and human-centered analysis of deep learning systems. I am interested in understanding how foundation models behave, where they fail, and how to make their behavior more reliable and actionable in production settings. My research spans LLM/VLM evaluation, transformer attention analysis, adversarial vulnerability diagnosis, SHAP-based model explanation, and simulation decision support.
+
+Current interests: foundation-model evaluation, LLM/VLM reliability, model behavior analysis, human-in-the-loop evaluation, responsible AI, and production ML systems.
 
 Checkout my [publication page](https://theonlyladybug.github.io/publications/) and my [Google Scholar](https://scholar.google.com/citations?user=T9QjVSEAAAAJ&hl=en) for the latest projects!
 
