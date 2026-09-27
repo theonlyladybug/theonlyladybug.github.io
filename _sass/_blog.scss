@@ -41,6 +41,20 @@
 
     p:last-child { margin-bottom: 0; }
   }
+
+  &__disclaimer {
+    margin-top: 2.5em;
+    padding-top: 1.5em;
+    border-top: 1px solid $border-color;
+    max-width: 48em;
+    color: $dark-gray;
+    font-size: 0.8em;
+    line-height: 1.7;
+
+    h2 { margin: 0 0 0.75em; font-size: 1.1em; }
+    p { margin: 0 0 0.85em; }
+    p:last-child { margin-bottom: 0; }
+  }
 }
 
 .research-note {
