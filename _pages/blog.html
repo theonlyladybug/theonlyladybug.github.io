@@ -7,6 +7,13 @@ author_profile: true
 ---
 
 <div class="research-blog">
+  <aside class="research-blog__disclaimer" aria-labelledby="disclaimer-title">
+    <h2 id="disclaimer-title">Disclaimer</h2>
+    <p>This blog documents independent personal research conducted outside my employment, using only my personal time, accounts, and computing resources, together with publicly available data, models, software, and literature.</p>
+    <p>No employer resources or non-public materials were used. The ideas, methods, code, experiments, and conclusions shared here were developed independently and do not draw on confidential or proprietary knowledge obtained through my employment.</p>
+    <p>This work is not affiliated with, sponsored by, reviewed by, approved by, or endorsed by my employer. All views, results, and interpretations are my own.</p>
+  </aside>
+
   <p class="research-blog__intro">Notes on VLM hallucination: experiments, results, and ideas along the way.</p>
 
   {% for post in site.posts %}
@@ -21,10 +28,4 @@ author_profile: true
     <p>Research notes are on the way. Check back for experiments, ideas, and results.</p>
   {% endfor %}
 
-  <aside class="research-blog__disclaimer" aria-labelledby="disclaimer-title">
-    <h2 id="disclaimer-title">Disclaimer</h2>
-    <p>This blog documents independent personal research conducted outside my employment, using only my personal time, accounts, and computing resources, together with publicly available data, models, software, and literature.</p>
-    <p>No employer resources or non-public materials were used. The ideas, methods, code, experiments, and conclusions shared here were developed independently and do not draw on confidential or proprietary knowledge obtained through my employment.</p>
-    <p>This work is not affiliated with, sponsored by, reviewed by, approved by, or endorsed by my employer. All views, results, and interpretations are my own.</p>
-  </aside>
 </div>
