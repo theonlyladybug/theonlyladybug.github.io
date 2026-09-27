@@ -14,6 +14,8 @@ My work focuses on model evaluation, AI reliability, and human-centered analysis
 
 Current interests: foundation-model evaluation, LLM/VLM reliability, model behavior analysis, human-in-the-loop evaluation, responsible AI, and production ML systems.
 
+I’m keeping a [research blog]({{ '/blog/' | relative_url }}) about VLM hallucination, with experiment results, ideas, and notes on work in progress.
+
 Checkout my [publication page](https://theonlyladybug.github.io/publications/) and my [Google Scholar](https://scholar.google.com/citations?user=T9QjVSEAAAAJ&hl=en) for the latest projects!
 
 <!-- My research is focused on advancing hardware-accelerated, machine-learning-augmented visualization techniques to support complex, large-scale scientific applications. Specifically, I design hardware-accelerated parallel algorithms that facilitate realistic visualization of scientific data and create innovative methods for efficiently managing large-scale, distributed data.  I also develop expressive and intelligent systems that optimize and automate scientific visualization and analysis processes, ultimately paving the way for more streamlined workflows and fostering scientific breakthroughs. -->

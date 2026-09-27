@@ -187,17 +187,17 @@ collections:
 
 # Defaults
 defaults:
-  # # _posts
-  # - scope:
-  #     path: ""
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     comments: true
-  #     share: true
-  #     related: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: research-note
+      author_profile: true
+      read_time: true
+      permalink: /blog/:year/:month/:day/:title/
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: ""
